@@ -157,7 +157,7 @@ a:hover {
 }
 
 #about-text {
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 400;
     letter-spacing: 0px;
 }
@@ -186,7 +186,7 @@ section {
 }
 
 .projectTags {
-    text-align: center;
+    text-align: left;
 }
 
 .footer {
